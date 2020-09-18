@@ -1,3 +1,7 @@
+# Name:    DownloadOSISAF405.py
+# Purpose: download osisaf405 sea ice drift product
+# Created:      LiMingci at 2020.08.15
+# Modification:     
 from ftplib import FTP
 import os
 import sys
